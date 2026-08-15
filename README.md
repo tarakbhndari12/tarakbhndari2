@@ -30,3 +30,13 @@ Business Analysis • KPI Analysis • Dashboard Development • Data-Driven Dec
 
 **Tools:**
 Git • GitHub
+
+---
+
+## 🎓 Education
+
+**B.Sc. Information Technology**
+Jai Hind College, Mumbai | 2024–2027
+
+Currently pursuing my degree with a focus on developing technical, analytical, and problem-solving skills.
+
