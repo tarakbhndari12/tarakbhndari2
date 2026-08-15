@@ -14,3 +14,19 @@ I enjoy working with data, exploring insights, and building practical technology
 * 🐍 Strengthening my skills in **Python, SQL, Excel & Power BI**
 * 📱 Developing practical applications with **Flutter & Dart**
 * 💡 Exploring how technology and data can be used to solve real-world problems
+
+---
+
+## 🛠️ Technical Skills
+
+**Data Analysis:**
+Python • SQL • Microsoft Excel • Power BI • Tableau
+
+**Data Skills:**
+Data Cleaning • Data Visualization • Exploratory Data Analysis • Statistical Analysis
+
+**Business Analytics:**
+Business Analysis • KPI Analysis • Dashboard Development • Data-Driven Decision Making
+
+**Tools:**
+Git • GitHub
