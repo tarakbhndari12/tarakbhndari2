@@ -40,3 +40,15 @@ Jai Hind College, Mumbai | 2024–2027
 
 Currently pursuing my degree with a focus on developing technical, analytical, and problem-solving skills.
 
+---
+
+## 📜 Certifications
+
+* **Certificate Course in Data Analysis**
+
+* **Advanced Excel**
+
+* **Google Digital Marketing Certification**
+
+* **MS-CIT**
+
